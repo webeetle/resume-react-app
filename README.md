@@ -8,6 +8,10 @@ Another Resume Template using React, Tailwind CSS and Vite
 
 </div>
 
+## See it
+
+<a href='https://resume-template-six.vercel.app/'>Live Demo</a>
+
 ## Getting Started (dev mode)
 
 - Cloning this repo
